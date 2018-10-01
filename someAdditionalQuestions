@@ -1,0 +1,32 @@
+###List six comparison operators in javascript.
+
+- equal to
+- not equal to
+- greater than
+- less than
+- greater than or equal to
+- less than or equal to
+
+###What are the primitive data types in javascript?
+
+- string
+- number
+- boolean
+- undefined
+- null
+
+###List two unit testing frameworks in javascript.
+
+- Mocha
+- Chai
+
+###What is the use of the ‘this’ keyword?
+
+- relates to parent object
+- window object if global
+
+###How many ways can Javascript code be involved in an HTML file?
+
+- inline
+- local
+- remote
